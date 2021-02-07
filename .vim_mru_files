@@ -1,0 +1,401 @@
+# Most recently edited files in Vim (version 3.0)
+/Users/joeykhuang/Desktop/CS/GiveMe/libs/libgen-api/libgen_API/search_request.py
+/Users/joeykhuang/Desktop/CS/GiveMe/libs/libgen-api/libgen_API/libgen_search.py
+/Users/joeykhuang/Desktop/CS/GiveMe/libs/libgen-api/libgen_API/libgen_api_helpers.py
+/usr/local/bin/goland
+/Users/joeykhuang/.dotfiles/git/functions.zsh
+/Users/joeykhuang/.dotfiles/git/aliases.zsh
+/Users/joeykhuang/.dotfiles/zsh/functions.zsh
+/Users/joeykhuang/.dotfiles/zsh/aliases.zsh
+/Users/joeykhuang/.dotfiles/zsh/completion.zsh
+/Users/joeykhuang/.dotfiles/zsh/zshrc.symlink
+/Users/joeykhuang/dotfiles/script/bootstrap
+/Users/joeykhuang/dotfiles/zsh/zshrc.symlink
+/Users/joeykhuang/dotfiles/README.md
+/Users/joeykhuang/.zshrc
+/Users/joeykhuang/Desktop/TheNewsroom/Task1-datasets/humanfirst-import/out/article_1_1_test.csv
+/Users/joeykhuang/Desktop/contributions-importer-for-github/contrib.py
+/Users/joeykhuang/.zlogin
+/Users/joeykhuang/.zshenv
+/Users/joeykhuang/.zprofile
+/Users/joeykhuang/Desktop/TheNewsroom/Task1-datasets/humanfirst-import/convert-headlines.py
+/Users/joeykhuang/Desktop/TheNewsroom/Task1-datasets/humanfirst-import/convert.py
+/Users/joeykhuang/Desktop/huoqi/huoqi-gdb/cmd/async/main.go
+/Users/joeykhuang/Downloads/neptune-es.json
+/Users/joeykhuang/Desktop/huoqi/huoqi-gdb/apache-tinkerpop-gremlin-console-3.4.8/conf/neptune-remote.yaml
+/Users/joeykhuang/Desktop/exploit-dir/shell.php
+/Users/joeykhuang/Desktop/exploit-dir/shell.sh
+/Users/joeykhuang/Desktop/exploit-dir/listener.php
+/Users/joeykhuang/Desktop/TheNewsroom/data/MisInfoText/politifact_phase2_raw_2018_7_3.csv
+/Users/joeykhuang/Desktop/exploit.php
+/Users/joeykhuang/Downloads/chall.sol
+/Users/joeykhuang/Desktop/PoloDB/pypolodb/test_db.py
+/Users/joeykhuang/Desktop/PoloDB/pypolodb/test-py.db
+/tmp/test-py.db
+/Users/joeykhuang/Downloads/script.py
+/Users/joeykhuang/Downloads/pw.c
+/Users/joeykhuang/Downloads/x-and-or.c
+/Users/joeykhuang/Downloads/factorize.py
+/Users/joeykhuang/Documents/BA/Pioneer/SpaceInvaders/SpaceInvaders.java
+/Users/joeykhuang/Desktop/PoloDB/pypolodb/include/polodb.h
+/Users/joeykhuang/Desktop/PoloDB/gopolodb/lib/polodb/src/lib.rs
+/tmp/polodb.db
+/Users/joeykhuang/Desktop/PoloDB/pypolodb/polodb_ext.c
+/private/tmp/polodb.db
+/Users/joeykhuang/Desktop/PoloDB/gopolodb/Makefile
+/Users/joeykhuang/Desktop/PoloDB/gopolodb/lib/polodb/Cargo.toml
+/Users/joeykhuang/Desktop/PoloDB/Cargo.toml
+/Users/joeykhuang/Desktop/rust-plus-golang/lib/hello/Cargo.toml
+/Users/joeykhuang/Desktop/rust-plus-golang/Makefile
+/Users/joeykhuang/Desktop/rust-plus-golang/lib/hello/target/release/libhello.d
+/Users/joeykhuang/Desktop/PoloDB/gopolodb/go_port.go
+/Users/joeykhuang/Desktop/contrib.py
+/Users/joeykhuang/Desktop/PoloDB/pypolodb/setup.py
+/Users/joeykhuang/Downloads/libpolodb_clib.a
+/Users/joeykhuang/Desktop/huoqi/hopsec/.git/MERGE_MSG
+/Users/joeykhuang/Desktop/huoqi/huoqi-gdb/plugins/call_api/yapi.go
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/pkg/fuzzer/fuzzer.go
+/Users/joeykhuang/Desktop/Hub/hub/config.py
+/Users/joeykhuang/Downloads/upload-2/aes.py
+/Users/joeykhuang/Downloads/upload-2/dec.png
+/Users/joeykhuang/Downloads/upload-2/task.py
+/Users/joeykhuang/Downloads/upload-2/decrypt.py
+/Users/joeykhuang/Downloads/upload-2/key
+/Users/joeykhuang/Desktop/flag.txt
+/Users/joeykhuang/Desktop/huoqi/huoqi-gdb/test/get_path.go
+/Users/joeykhuang/Desktop/huoqi/huoqi-relation-engine/go.mod
+/Users/joeykhuang/Desktop/huoqi/huoqi-gdb/neo4j-test.py
+/Users/joeykhuang/Desktop/huoqi/huoqi-gdb/neo4j.py
+/Users/joeykhuang/Desktop/huoqi/huoqi-gdb/main.go
+/Users/joeykhuang/Downloads/seabolt/main.go
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin/src/CoreV2.py
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/plugins/test/test.go
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/plugins/webbat/webbat.py
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin/.git/MERGE_MSG
+/Users/joeykhuang/Desktop/huoqi/huoqi-schedule/application.conf
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/plugins/webbat/webbat.go
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/plugins/webbat/try/main.go
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/plugins/webbat/try/main.py
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/plugins/webbat/webbat.so
+/Users/joeykhuang/Desktop/gocelery/worker/main.go
+/Users/joeykhuang/Desktop/gocelery/server/main.go
+/Users/joeykhuang/Desktop/gocelery/client/main.go
+/Users/joeykhuang/Desktop/gocelery/go.mod
+/usr/local/mysql/support-files/mysql.server
+/Users/joeykhuang/Downloads/apache-tinkerpop-gremlin-console-3.4.9/wiki-Vote.txt
+/Users/joeykhuang/Desktop/concurrency/main.go
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/.gitignore
+/Users/joeykhuang/Desktop/huoqi/huoqi-plugin-go/hello.go
+/Users/joeykhuang/Desktop/test.py
+/Users/joeykhuang/Desktop/huoqi/hopsec/data.json
+/Users/joeykhuang/.ssh/id_rsa.pub
+/Users/joeykhuang/Desktop/hopsec/redis.conf
+/Users/joeykhuang/Downloads/a_song.txt
+/Users/joeykhuang/Shared/BrixelCTF/fast.py
+/Users/joeykhuang/Desktop/Zoomoji/zoomoji/visualize.py
+/Users/joeykhuang/Desktop/Zoomoji/zoomoji-js/videochat/src/config.js
+/Users/joeykhuang/Desktop/Zoomoji/.git/MERGE_MSG
+/Users/joeykhuang/Downloads/connectycube-web-samples-master/videochat/package.json
+/Users/joeykhuang/Downloads/connectycube-web-samples-master/videochat/src/ui-service.js
+/Users/joeykhuang/Downloads/connectycube-web-samples-master/videochat/src/index.js
+/Users/joeykhuang/Downloads/connectycube-web-samples-master/videochat/index.html
+/Users/joeykhuang/Downloads/connectycube-web-samples-master/videochat/src/call-service.js
+/Users/joeykhuang/Downloads/connectycube-web-samples-master/videochat/src/config.js
+/Users/joeykhuang/Desktop/giantemoji-master/gmojiWeb/src/index.html
+/Users/joeykhuang/Desktop/Zoomoji/index.html
+/Users/joeykhuang/Desktop/giantemoji-master/gmojiWeb/src/scripts/GMOJI.Person.js
+/Users/joeykhuang/Desktop/giantemoji-master/gmojiWeb/src/scripts/GMOJI.Puppet.update.js
+/Users/joeykhuang/Desktop/giantemoji-master/gmojiWeb/src/scripts/GMOJI.Puppet.js
+/Users/joeykhuang/Desktop/giantemoji-master/gmojiWeb/src/scripts/GMOJI.js
+/Users/joeykhuang/Desktop/Zoomoji/Zoomoji/landmark.py
+/Users/joeykhuang/Downloads/giantemoji-master/gmojiWeb/src/scripts/GMOJI.js
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset6/README.md
+/Users/joeykhuang/Desktop/CS/CTF/MetasploitCTF/clubs.rb
+/Users/joeykhuang/Desktop/CS/CTF/MetasploitCTF/res.rc
+/Users/joeykhuang/Desktop/CS/CTF/MetasploitCTF/shell.php
+/Users/joeykhuang/Desktop/CS/CTF/MetasploitCTF/newres.rc
+/Users/joeykhuang/.msf4/modules/exploits/msfctf/clubs.rb
+/Users/joeykhuang/.msf4/modules/exploits/5clubs.rb
+/Users/joeykhuang/Desktop/CS/CTF/MetasploitCTF/module.rb
+/Users/joeykhuang/Desktop/CS/CTF/MetasploitCTF/5clubs.rb
+/Users/joeykhuang/Desktop/CS/CTF/MetasploitCTF/example.rb
+/Users/joeykhuang/Downloads/example.rb
+/Users/joeykhuang/Downloads/shell.php
+/Users/joeykhuang/Downloads/a.jpg.php
+/Users/joeykhuang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/50bf05e2be1c809ebfc468e790d0661d/Message/MessageTemp/fe301a04bfda2ae1787fcf5d65d4de05/File/a.jpg.php
+/Users/joeykhuang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/50bf05e2be1c809ebfc468e790d0661d/Message/MessageTemp/fe301a04bfda2ae1787fcf5d65d4de05/File/e17.png.php
+/Users/joeykhuang/Downloads/QOH_Client 2.jar/Client.java
+/Users/joeykhuang/Downloads/QOH_Client 2.jar/Client.class
+/Users/joeykhuang/Downloads/QOH_Client 2.jar/AuthState.java
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset6/out.txt
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset6/bytes.out
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset6/AUTHORS.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/.git/MERGE_MSG
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/shell/q1sol.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/shell/q1.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset5/sh61.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/storage/q1sol.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset5/helpers.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/storage/q1.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset6/serverinfo.h
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/net4/README.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/net3/README.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset5/AUTHORS.md
+/Users/joeykhuang/Desktop/read.c
+/Users/joeykhuang/Desktop/read
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset5/check.pl
+/Users/joeykhuang/Downloads/G003680.a3m
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process5/timedwait-block.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process5/timedwait-signalfd.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/CS61/pset5/sh61.c
+/Users/joeykhuang/Documents/hmmt/discord.txt
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset4/io61.cc
+/Users/joeykhuang/.bashrc
+/Users/joeykhuang/Documents/hmmt/HMMTVerificationBot/nohup.out
+/Users/joeykhuang/Documents/hmmt/HMMTVerificationBot/hmmtveribot.py
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process2/childpipe.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process5/timedwait-selfpipe.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process2/forkmyecho.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process2/waitdemo.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process2/execmyecho.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/docker/Dockerfile
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset4/files/out.txt
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset4/files/test.txt
+/Users/joeykhuang/Downloads/hw9.tex
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/process1/fork1.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset4/files/out1.txt
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset4/strace-stdio.out
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/storage5/strace04.out
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/storage5/strace06.out
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/storage5/strace05.out
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/kernel/q1sol.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/kernel/q1.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset3/kernel.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/q1sol.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/q1.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset4/strace.o
+/Users/joeykhuang/Documents/hmmt/HMMTVerificationBot/.env
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset4/AUTHORS.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset3/AUTHORS.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset3/GNUmakefile
+/Users/joeykhuang/Shared/MetaCTF/Users/Users/Xiang Zhi/AppData/Roaming/Wire/IndexedDB/https_app.wire.com_0.indexeddb.leveldb/000004.log
+/Users/joeykhuang/Shared/MetaCTF/crack.py
+/Users/joeykhuang/Shared/MetaCTF/emotet
+/Users/joeykhuang/Shared/MetaCTF/olevba.py
+/Users/joeykhuang/Shared/MetaCTF/text-game.c
+/Users/joeykhuang/Shared/MetaCTF/plugin_http_heuristics.py
+/Users/joeykhuang/Shared/MetaCTF/oledump.py
+/Users/joeykhuang/Shared/MetaCTF/docx.hash
+/Users/joeykhuang/Downloads/vuln.c
+/Users/joeykhuang/Downloads/html/wp-config.php
+/Users/joeykhuang/Documents/hmmt/HMMTVerificationBot/credentials.json
+/Users/joeykhuang/Desktop/pset4/io61.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset3/log.txt
+/Users/joeykhuang/Downloads/config.yaml
+/Users/joeykhuang/Documents/hmmt/authbot/authbot.py
+/Users/joeykhuang/Downloads/VaultDoor1.java
+/Users/joeykhuang/Downloads/VaultDoorTraining.java
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley.tmp/pset3/ABOUT.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/perfect.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/datarep/q1sol.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/asm5/src/f20.cc
+/Users/joeykhuang/.vim_runtime/my_configs.vim
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/asm5/f20.s
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/asm3/fundriver.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/asm3/fundriver.o
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/asm3/src/fun06.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/magic.s
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/magic.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/asm5/GNUmakefile
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures.tmp/asm4/GNUmakefile
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/f21.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/magic.cpp
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/asm/magic.c
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/datarep/q1.md
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets/pset1/m61.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/pset3/GNUmakefile
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/pset3/kernel.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/pset2/README.md
+/Users/joeykhuang/Documents/hmmt/build-script.sh
+/Users/joeykhuang/Documents/hmmt/Makefile
+/Users/joeykhuang/Documents/hmmt/config/hmmt.mysql.cfg
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/hmmt/config/hmmt.mysql.cfg.template
+/Users/joeykhuang/.bash_profile
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/hmmt/Makefile
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/code.txt
+/Users/joeykhuang/Downloads/main.py
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/asm7/stringrep.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/pset2/bomb16/input.txt
+/Users/joeykhuang/Downloads/test.fasta
+/Users/joeykhuang/Desktop/square.c
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-questions-josephhuxley/datarep/stack_overflow.cc
+/Users/joeykhuang/Desktop/tideman (1).c
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/ls50a/PSets/pset4/S_mikatae_sequence_database_1.fasta
+/Users/joeykhuang/.gdbinit
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/pset2/bomb16/.gdbinit
+/Users/joeykhuang/Documents/Summer 2020/Euler/c2/pset2.tex
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/pset1/m61.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep8/badallocs.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep9/attack.txt
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep9/attackme.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep8/integertrailer.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep8/hexdump.cc
+/Users/joeykhuang/.vim_runtime/sources_non_forked/auto-pairs/README.md
+/Users/joeykhuang/.vimrc.local
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep8/badallocs
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/.gitignore
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley/pset1/.gitignore
+/Users/joeykhuang/Downloads/SDS230/NAMESPACE
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep4/arrayinfo.cc
+/Users/joeykhuang/.local/share/applications/GroupMe.desktop
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-f20-psets-josephhuxley-main/pset1/GNUmakefile
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/math55a/psets/pset1/pset1.tex
+/var/folders/__/vzd33p_j03q9b51bp7mhxc640000gn/T/vPw8Lbg/1
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep2/hexdump.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep2/mexplore1.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep2/mexplore1
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/cs61-lectures/datarep2/mexplore0.cc
+/Users/joeykhuang/Desktop/CS/Leetcode/1_twosum/1_twosum.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/linear-cpp/Chapter 09 - Iterators/vector_algos.cpp
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/linear-cpp/Chapter 09 - Iterators/main.cpp
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/pset0/strstr61_2.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/pset0/strstr61.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/pset0/wc61_2.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/pset0/wc61.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/pset0/cat61.cc
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/linear-cpp/Chapter 02 - Types and Variables/main.cpp
+/Users/joeykhuang/Library/Mobile Documents/com~apple~CloudDocs/freshman/cs61/linear-cpp/Chapter 01 - Hello World/main.cpp
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day7-9 slides/Day8HW/hmm_out
+/Users/joeykhuang/Desktop/Harvard/prefrosh/math370/day3/day3.tex
+/Users/joeykhuang/Desktop/Harvard/prefrosh/math370/day2/day2.tex
+/var/folders/__/vzd33p_j03q9b51bp7mhxc640000gn/T/vz88nwy/0
+/Users/joeykhuang/Desktop/Harvard/prefrosh/math370/day1/day1.tex
+/Users/joeykhuang/Desktop/Harvard/prefrosh/math370/day1.tex
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/extended_R2_minus_summits.bed
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/bed_change.py
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/R1_plus_summits.bed
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/background.fasta
+/Users/joeykhuang/Desktop/CS/SICP/Chapter 3/3.3 Modeling with Mutable Data/exercise_3.19.scm
+/Users/joeykhuang/Desktop/CS/SICP/Chapter 3/3.3 Modeling with Mutable Data/exercise_3.18.scm
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day1/handson/dna_seq_random.py
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/max_circle.fasta.matrix.w2
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/max_circle.fasta
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/R1_minus_summits.fa
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/R2_minus_summits.fa
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/R2_plus_summits.fa
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day3/handson/R1_plus_summits.fa
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day2/handson/candidate_datasets/GSE135220_metadata.txt
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day2/handson/candidate_datasets/GSE135220_PTPRR_mTM.count.matrix.txt
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day1/handson/pre_align.fa
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day1/handson/bowtie_align.sam
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day1/handson/bwa_align.sam
+/Users/joeykhuang/Desktop/TechX/Bioinfo/Day1-3 slides/Day1/handson/bwa_index/bwa_align.sam
+/Users/joeykhuang/Desktop/TechX/Bioinfo/计算生物与生物信息学课程 | Computational Biology & Bioinformatics/Day1-3 slides/Day1/handson/chr21.fa
+/Users/joeykhuang/Desktop/TechX/Bioinfo/计算生物与生物信息学课程 | Computational Biology & Bioinformatics/Day1-3 slides/Day1/handson/dna_seq_random.py
+/Users/joeykhuang/Desktop/TechX/Bioinfo/计算生物与生物信息学课程 | Computational Biology & Bioinformatics/Day1-3 slides/Day1/handson/bedfile.bed
+/Users/joeykhuang/Shared/FAUSTCTF/postgresql.sql
+/Users/joeykhuang/Desktop/Euler/c9/pset9.tex
+/Users/joeykhuang/Desktop/Euler/c8/pset8.tex
+/Users/joeykhuang/.ssh/known_hosts
+/Users/joeykhuang/.ssh/config
+/Users/joeykhuang/Desktop/Euler/paper/grobner.tex
+/Users/joeykhuang/Desktop/Euler/c7/pset7.tex
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset1/m61.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset1/basealloc.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset1/test002.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset1/test001.cc
+/Users/joeykhuang/Desktop/Euler/c6/pset6.tex
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/sortedargs61_advanced.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/sortargs61_2.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/sortargs61.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/cat61.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/hello2.txt
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/hello.txt
+/Users/joeykhuang/.keyboard/karabiner/karabiner.json
+/Users/joeykhuang/.config/karabiner/karabiner.json
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/cat61
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/wc61_2.cc
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/wc61.cc
+/Users/joeykhuang/Desktop/plurality.c
+/Users/joeykhuang/Desktop/Euler/paper/summary.tex
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/wc61
+/Users/joeykhuang/Desktop/Harvard/prefrosh/cs61/pset0/p1.cpp
+/Users/joeykhuang/Desktop/Euler/c5/pset5.tex
+/Users/joeykhuang/Desktop/Euler/c4/pset4.tex
+/Users/joeykhuang/Desktop/Euler/c3/pset3.tex
+/Users/joeykhuang/Desktop/Euler/c2/pset2.tex
+/Users/joeykhuang/Desktop/Euler/week2/pset2.tex
+/Users/joeykhuang/Desktop/Euler/week1/pset1.tex
+/Users/joeykhuang/.vim_runtime/vimrcs/basic.vim
+/Users/joeykhuang/Desktop/Euler/week1/pset1.txt
+/private/etc/hosts
+/etc/hosts
+/Users/joeykhuang/Shared/SharkyCTF/Erwin/hw.c
+/Users/joeykhuang/Downloads/main.asm
+/Users/joeykhuang/Shared/SharkyCTF/bleichenbacher.py
+/Users/joeykhuang/Downloads/download
+/Users/joeykhuang/Shared/SharkyCTF/noisy_rsa.py
+/Users/joeykhuang/Shared/SharkyCTF/rsae3.py
+/Users/joeykhuang/Shared/SharkyCTF/rsatool/tlscert.pem
+/Users/joeykhuang/Downloads/RsaCtfTool/key.pub
+/Users/joeykhuang/Shared/SharkyCTF/tlsattack.py
+/Users/joeykhuang/Shared/SharkyCTF/wiener.py
+/Users/joeykhuang/Downloads/send.txt
+/Users/joeykhuang/Downloads/7uffy.png
+/Users/joeykhuang/Downloads/0_give_away
+/Users/joeykhuang/Desktop/SharkyCTF/reversing/main.asm
+/Users/joeykhuang/Downloads/store.c
+/Users/joeykhuang/Downloads/solve.py
+/Users/joeykhuang/Downloads/RsaCtfTool-master/RsaCtfTool.py
+/Users/joeykhuang/Downloads/The Flag/The Flag.pdf
+/Applications/PyCharm.app/Contents/bin/pycharm.vmoptions
+/Users/joeykhuang/.vimrc
+/Users/joeykhuang/Desktop/packing.py
+/Users/joeykhuang/answer.txt
+/Users/joeykhuang/output.txt
+/Users/joeykhuang/Desktop/AWS/Solutions Architect/content-aws-csa2019/lab_files/01_aws_sa_fundamentals/getting_started_with_cfn/updatestack2.json
+/Users/joeykhuang/Downloads/joey.ovpn
+/Users/joeykhuang/Desktop/Calculator/emma.txt
+/Users/joeykhuang/Desktop/Calculator/gaygaygay.txt
+/Users/joeykhuang/Desktop/Calculator/.git/COMMIT_EDITMSG
+/Users/joeykhuang/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/GalaxyCSharp.dll
+/Users/joeykhuang/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/Resources/Content/Animals/Pig.xnb
+/Users/joeykhuang/Desktop/AP/AP Statistics/Pyramid/.gitignore
+/Users/joeykhuang/Downloads/FSRP/Leaf Area Image Processing/leaf_area.sh
+/Users/joeykhuang/Desktop/CTF/Crypto/cryptopals/3_block_and_stream/17_cbc_padding_oracle.py
+/Users/joeykhuang/PycharmProjects/42-workshop/sample_db.sqlite
+/Users/joeykhuang/Desktop/CTF/Crypto/cryptopals/1_basics/2_fixed_xor.py
+/Users/joeykhuang/Desktop/CTF/Crypto/cryptopals/1_basics/1_hex_to_base64.py
+/Users/joeykhuang/Shared/PWK/exam/192.168.29.85/exploit/newshell.asp
+/Users/joeykhuang/Shared/PWK/exam/192.168.29.85/exploit/Web.Config
+/Users/joeykhuang/Shared/PWK/exam/192.168.29.85/exploit/shell.xml
+/Users/joeykhuang/Shared/PWK/exam/192.168.29.85/exploit/hash.txt
+/Users/joeykhuang/Shared/PWK/exam/192.168.29.110/exploit/shellcode.py
+/Users/joeykhuang/Shared/PWK/exam/192.168.29.110/exploit/bad_chars.py
+/Users/joeykhuang/Shared/PWK/exam/192.168.29.110/poc.py
+/Users/joeykhuang/.tmux.conf.local
+/Users/joeykhuang/Shared/hackthebox/machines/LaCasaDePapel/exploit/ca.key
+/Users/joeykhuang/Shared/hackthebox/machines/brainfuck/privesc/rsa.py
+/Users/joeykhuang/Shared/hackthebox/machines/brainfuck/exploit/nginx.py
+/Users/joeykhuang/Shared/hackthebox/wall/privesc/rootshell.c
+/Users/joeykhuang/Shared/hackthebox/wall/privesc/libhax.c
+/Users/joeykhuang/Downloads/gtk-setup.sh
+/Users/joeykhuang/Shared/PWK/lab/IT/10.1.1.1/exploit/webconsole.py
+/Users/joeykhuang/Shared/PWK/exercises/Module 16/crossfire.rb
+/Users/joeykhuang/Shared/PWK/exercises/Module 13/revshell.php
+/Users/joeykhuang/Shared/PWK/exercises/Module 12/Java.java
+/Users/joeykhuang/Shared/PWK/exercises/Module 12/java-applet.java
+/Users/joeykhuang/Shared/PWK/exercises/Module 7/VulnServerBadChars.py
+/Users/joeykhuang/Shared/PWK/exercises/Module 7/badchars.py
+/Users/joeykhuang/Shared/PWK/exercises/Module 7/VulnServerPOC.py
+/Users/joeykhuang/Shared/PWK/exercises/Module 8/crossfire_badchars.py
+/Users/joeykhuang/Shared/PWK/exercises/Module 8/Gemfile.lock
+/Users/joeykhuang/Shared/PWK/exercises/Module 8/crossfire_crash.py
+/Users/joeykhuang/Shared/PWK/lab/public/fc4/privesc/weebminroot.sh
+/Users/joeykhuang/Shared/PWK/lab/public/fc4/privesc/fc4.c
+/Users/joeykhuang/Shared/PWK/lab/public/fc4/exploit/shadow
+/Users/joeykhuang/Shared/PWK/lab/public/gh0st/exploit/sparty.py
+/Users/joeykhuang/Shared/PWK/lab/IT/carrie/privesc/dirty.c
+/Users/joeykhuang/Shared/PWK/lab/IT/carrie/privesc/udev.sh
+/Users/joeykhuang/Shared/PWK/lab/public/fw_dev/exploit/timeclock.py
+/Users/joeykhuang/Shared/PWK/lab/IT/pivot.conf
