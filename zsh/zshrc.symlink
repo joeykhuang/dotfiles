@@ -5,6 +5,7 @@ export PATH=$HOME/anaconda3/bin:$PATH
 
 # your project folder that we can `c [tab]` to
 export PROJECTS=~/Desktop/CS
+export VIMINIT="source $DOTFILES/.vimrc"
 
 # Stash your environment variables in ~/.localrc. This means they'll stay out
 # of your main dotfiles repository (which may be public, like this one), but

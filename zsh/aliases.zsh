@@ -4,3 +4,4 @@ alias myip='curl http://ipecho.net/plain; echo'
 alias server='python2 -m SimpleHTTPServer 8000'
 alias pip='/Users/joeykhuang/anaconda3/bin/pip3'
 alias pku="cd ~/Desktop/PKU/"
+alias rs="cd ~/Desktop/CS/running_society"
