@@ -54,7 +54,7 @@ bindkey "^[[B" down-line-or-beginning-search # Down
 
 # my own configurations
 
-#cd ~/Desktop
+cd ~/Desktop
 ZSH_THEME="spaceship"
 SPACESHIP_DOCKER_SHOW=false
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
